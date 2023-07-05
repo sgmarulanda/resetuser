@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  urlAD: 'https://devapps.emergiacc.com/DesbloqueoAD/#/login',
+  urlEOS: 'https://devapps.emergiacc.com/EmResetPasswordEos/#/forgot-password'
 };
 
 /*
